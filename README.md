@@ -8,3 +8,6 @@
 
 ## Próximas Etapas  
 Veja [TODO.md](TODO.md) para detalhes.  
+
+## Fonte de dados
+[Microdados do Censo Escolar da Educação Básica 2023](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar)
